@@ -18,7 +18,7 @@
 
 ### ✍️ Работы
 
-- [Изучение английского языка (работа в команде](https://github.com/Smarrti/rslang)
+- [Изучение английского языка (работа в команде)](https://github.com/Smarrti/rslang)
 
 - [Изучение английского языка для детей](https://github.com/Smarrti/diplom-project)
 
